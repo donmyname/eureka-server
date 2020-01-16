@@ -1,6 +1,6 @@
 # Foobar
 
-This is a simple example of how Eureka Server Service Registration and Discovery works.
+This is a simple example of how Eureka Server Service Registration and Discovery works, for learning purpose
 
 
 ## Usage
